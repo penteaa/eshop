@@ -1,4 +1,4 @@
-https://penteaa.github.io/eshop
+https://penteaa.github.io/eshop             - click on shop
 
 
 # Getting Started with Create React App
